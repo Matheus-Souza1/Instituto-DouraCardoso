@@ -1,0 +1,166 @@
+{
+  "Header": {},
+  "About": {
+    "paragraph": "Nossa instituição social é um farol de esperança para aqueles perdidos nos abismos dos vícios, álcool e drogas. Através da palavra de Deus e dos ensinamentos da Bíblia, oferecemos acolhimento e orientação, guiando-os para um caminho de libertação e renovação espiritual. Além disso, estendemos nossas mãos para ajudar comunidades carentes e povoados necessitados, proporcionando conforto, apoio e recursos para construir um futuro melhor.",
+    "Why": [
+      "Resgatar almas perdidas",
+      "Inspirar mudanças positivas",
+      "Proporcionar segundas chances",
+      "Manifestar o amor de Deus em ações tangíveis"
+    ],
+    "Why2": [
+      "Construir uma rede de apoio",
+      "Transformar histórias de desespero em testemunhos de fé",
+      "Cuidar uns dos outros",
+      "Estender mãos solidárias"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Ver foto",
+      "largeImage": "img/portfolio/acao-eliane.jpeg",
+      "smallImage": "img/portfolio/acao-eliane-small.jpeg"
+    },
+    {
+      "title": "Ver foto",
+      "largeImage": "img/portfolio/acao-fabio.jpeg",
+      "smallImage": "img/portfolio/acao-fabio-small.jpeg"
+    },
+    {
+      "title": "Ver foto",
+      "largeImage": "img/portfolio/acao-garavelo.jpeg",
+      "smallImage": "img/portfolio/acao-garavelo-small.jpeg"
+    },
+    {
+      "title": "Ver foto",
+      "largeImage": "img/portfolio/cafe-manha.jpeg",
+      "smallImage": "img/portfolio/cafe-manha-small.jpeg"
+    },
+    {
+      "title": "Ver foto",
+      "largeImage": "img/portfolio/cafe.jpeg",
+      "smallImage": "img/portfolio/cafe-small.jpeg"
+    },
+    {
+      "title": "Ver foto",
+      "largeImage": "img/portfolio/lanche-garavelo.jpeg",
+      "smallImage": "img/portfolio/lanche-garavelo-small.jpeg"
+    },
+    {
+      "title": "Ver foto",
+      "largeImage": "img/portfolio/mudanca-interno.jpeg",
+      "smallImage": "img/portfolio/mudanca-interno-small.jpeg"
+    },
+    {
+      "title": "Ver foto",
+      "largeImage": "img/portfolio/oracao-prs.jpeg",
+      "smallImage": "img/portfolio/oracao-prs-small.jpeg"
+    },
+    {
+      "title": "Ver foto",
+      "largeImage": "img/portfolio/oracao.jpeg",
+      "smallImage": "img/portfolio/oracao-small.jpeg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-book",
+      "name": "Estudos Biblicos",
+      "text": "Nosso compromisso é conduzir estudos bíblicos, revelando o infinito amor de Deus às almas desamparadas, guiando cada coração perdido para a luz da esperança e da salvação."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": " Eventos de Caridade",
+      "text": "Organizamos eventos comunitários em áreas carentes, levando mantimentos e realizando eventos gospel, nutrindo tanto os corpos quanto as almas com amor e esperança."
+    },
+    {
+      "icon": "fa fa-heart",
+      "name": "Renovação",
+      "text": "Nosso propósito é transformar e renovar os corações consumidos pelos vícios, guiando-os para um caminho de libertação, redenção e paz interior."
+    },
+    {
+      "icon": "fa fa-music",
+      "name": "Louvores",
+      "text": "Fortalecemos laços de fé e esperança ao compartilhar momentos de adoração com os internos do instituto, elevando os corações através dos louvores e fortalecendo o espírito em comunhão com Deus."
+    },
+    {
+      "icon": "fa fa-university",
+      "name": "Instituição",
+      "text": "Nossa instituição não visa fins financeiros, mas sim o propósito de apoiar e amparar aqueles que mais necessitam, oferecendo esperança, conforto e oportunidades para reconstruir vidas em tempos de dificuldade e desespero"
+    },
+    {
+      "icon": "fa fa-line-chart",
+      "name": "Planos",
+      "text": "Após a recuperação dos internos, dedicamo-nos a apoiar seu retorno à sociedade, fornecendo orientação e suporte para uma reintegração bem-sucedida, construindo juntos um futuro cheio de esperança e oportunidades."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/usuario-desconhecido.jpeg",
+      "text": "\"Como membro da comunidade, vejo o incrível impacto positivo que esta instituição tem na vida das pessoas. Parabéns pelo excelente trabalho!\"",
+      "name": "Marli"
+    },
+    {
+      "img": "img/testimonials/usuario-desconhecido.jpeg",
+      "text": "\"Como alguém que acompanha de perto o trabalho desta instituição, posso afirmar que estão fazendo um trabalho incrível. Continuem assim!\"",
+      "name": "Joao"
+    },
+    {
+      "img": "img/testimonials/usuario-desconhecido.jpeg",
+      "text": "\"É inspirador ver o compromisso desta instituição em fazer a diferença. Parabéns pelo ótimo trabalho!\"",
+      "name": "Camila"
+    },
+    {
+      "img": "img/testimonials/usuario-desconhecido.jpeg",
+      "text": "\"Como um membro da sociedade, quero expressar minha admiração pelo trabalho desta instituição. Vocês realmente estão fazendo um excelente trabalho!\"",
+      "name": "Matheus"
+    },
+    {
+      "img": "img/testimonials/usuario-desconhecido.jpeg",
+      "text": "\"Em minha experiência como observador, gostaria de expressar minha gratidão pelo impacto positivo que esta instituição traz para nossa sociedade. Parabens!\"",
+      "name": "Lucas"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/pr-fabio.jpeg",
+      "name": "Pr Fabio Cardoso",
+      "job": "Presidente"
+    },
+    {
+      "img": "img/team/pra-eliane.jpeg",
+      "name": "Pra Eliane Barbosa",
+      "job": "Presidente"
+    }
+  ],
+  "Contact": {
+    "address": "Setor Entroncamento, Araguina, Tocantins ",
+    "phone": "(63) 99225-3983",
+    "email": "institutodouracardoso@gmail.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Mensagens",
+      "text": "Levando uma mensagem de libertação às almas que enfrentam tempos árduos."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Palavras",
+      "text": "Espalhamos a palavra de Deus às almas necessitadas, iluminando caminhos e renovando esperanças em meio às adversidades."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Grupos",
+      "text": "Unidos em um propósito nobre, estendemos nossas mãos para auxiliar aqueles que mais precisam, espalhando amor e solidariedade por onde passamos."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Transformação",
+      "text": "Por meio dos ensinamentos e palavras de Deus, estamos transformando e resgatando vidas, guiando cada passo em direção à redenção e plenitude espiritual."
+    }
+  ]
+}
