@@ -353,7 +353,8 @@ header .intro-text {
   color: #fff;
 }
 #services p {
-  color: rgba(255, 255, 255, 0.75);
+  color: #ffffff;
+  font-weight: bold;
 }
 #services .service-desc {
   margin-bottom: 40px;
