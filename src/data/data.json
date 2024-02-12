@@ -131,6 +131,31 @@
       "img": "img/team/pra-eliane.jpeg",
       "name": "Pra Eliane Cardoso",
       "job": "Presidente"
+    },
+    {
+      "img": "img/team/joao-antonio.jpeg",
+      "name": "João Antônio",
+      "job": "Vice-Presidente"
+    },
+    {
+      "img": "img/team/Laysa-Barbosa.jpeg",
+      "name": "Laysa Barbosa",
+      "job": "Tesoureira"
+    },
+    {
+      "img": "img/team/marli.jpeg",
+      "name": "Marli Inácio",
+      "job": "Conselheira"
+    },
+    {
+      "img": "img/team/Albares.jpeg",
+      "name": "Pr Albares",
+      "job": "Conselheiro"
+    },
+    {
+      "img": "img/team/manoel-junior.jpeg",
+      "name": "Pr Fabio Cardoso",
+      "job": "Conselheiro"
     }
   ],
   "Contact": {
